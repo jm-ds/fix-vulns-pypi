@@ -10,7 +10,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'org.apache.poi:3.17'
+    implementation 'org.apache.poi:poi:3.17'
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.0'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
 }
